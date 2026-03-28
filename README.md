@@ -8,4 +8,4 @@ sound, as statistical models inherently cannot be universal solvers
 
 This position paper explores this idea of why generalization is a bad thing for statistical models and what alternatives we can use.
 
-It is my personal paper and i wrote it after i found a gap that needs to be addressed.
+It is my personal paper and i wrote it after i found a gap that needs to be addressed.im still learning to research by myself
